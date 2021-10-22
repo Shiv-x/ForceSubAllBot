@@ -34,28 +34,18 @@ Made with Python3
 
 
 <details>
-  <summary>Deploy in vps/summary> Deploy in vps
+  <summary>Deploy in vps/summary>
 
 - Clone this repo
-```
 git clone https://github.com/QueenArzoo/ForceSubAllBot  
-```
 - Change directory
-```
 cd ForceSubAllBot
-```
 - Install requirements
-```
 pip3 install -r requirements.txt
-```
 - setup configuration
-```
 Open Config.py in text Editor and set values
-```
 - Start the bot
-```
 python3 bot.py
-```
     
 </details>    
 ## Configs:
