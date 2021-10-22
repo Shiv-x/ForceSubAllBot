@@ -12,6 +12,7 @@ Made with Python3
 
 # Introduction
 **A Telegram Bot to force users to join a specific channel before sending messages in a group.**
+
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/AwesomeSupport)
 [![Support !](https://badgen.net/badge/Support%20/Group/blue)](https://telegram.dog/AwesomeSupport)
 
