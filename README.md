@@ -33,7 +33,9 @@ Made with Python3
 - Changes in commands
 
 
-### Deploy in vps
+<details>
+  <summary>Deploy in vps/summary> Deploy in vps
+
 - Clone this repo
 ```
 git clone https://github.com/QueenArzoo/ForceSubAllBot  
@@ -54,6 +56,8 @@ Open Config.py in text Editor and set values
 ```
 python3 bot.py
 ```
+    
+</details>    
 ## Configs:
 - Read `Config.py` to know all configs
 
